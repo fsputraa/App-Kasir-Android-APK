@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732531625927",
+    "project_id": "kasir-270cc",
+    "storage_bucket": "kasir-270cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732531625927:android:81939e6ab0fea7dbb453e2",
+        "android_client_info": {
+          "package_name": "com.example.kasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWC-d6u5fA2sewQOKZdLZqG2a2MNcVWoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
